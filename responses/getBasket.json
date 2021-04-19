@@ -1,18 +1,27 @@
 {
-  "amount": 46600,
-  "countGoods": 2,
+  "amount": 199,
+  "countGoods": 3,
   "contents": [
     {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
+      "id": 2, 
+      "title": "MANGO BLAZER", 
+      "price": 67, 
+      "image": "img/pr_item_2.jpg",
       "quantity": 1
     },
     {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
+      "id": 3, 
+      "title": "MANGO JACKET", 
+      "price": 62,
+      "image": "img/pr_item_3.jpg",
       "quantity": 1
+    },
+    {
+      "id": 4, 
+      "title": "MANGO PEOPLE T-SHIRT", 
+      "price": 35, 
+      "image": "img/pr_item_4.jpg",
+      "quantity": 2
     }
   ]
 }
