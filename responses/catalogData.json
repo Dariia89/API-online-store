@@ -1,5 +1,4 @@
-{
-  "contents": [
+[
   {
   "id": 1,
   "title": "MANGO HOODIE",
@@ -54,5 +53,4 @@
   "price": 35,
   "image": "img/pr_item_9.jpg"
 }
-  ]
-}
+]
